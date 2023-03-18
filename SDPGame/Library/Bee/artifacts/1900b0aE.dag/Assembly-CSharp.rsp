@@ -348,6 +348,7 @@
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/HealthSystem/UnitHealth.cs"
 "Assets/Scripts/PlayerBehaviour.cs"
+"Assets/Scripts/UI_Scripts/HealthBar.cs"
 -langversion:9.0
 
 /deterministic
