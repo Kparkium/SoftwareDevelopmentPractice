@@ -349,7 +349,7 @@
 "Assets/Scripts/HealthSystem/UnitHealth.cs"
 "Assets/Scripts/PlayerBehaviour.cs"
 "Assets/Scripts/UI_Scripts/HealthBar.cs"
-"Assets/Scripts/ZombieAI.cs"
+"Assets/Scripts/UI_Scripts/ZombieAI.cs"
 -langversion:9.0
 
 /deterministic
