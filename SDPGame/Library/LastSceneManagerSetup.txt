@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/ZombieScene.unity
-=======
-- path: Assets/Art/LowPolyWater_Pack/_Demo/DemoScene.unity
->>>>>>> shelvin
+- path: Assets/Scenes/DemoScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
