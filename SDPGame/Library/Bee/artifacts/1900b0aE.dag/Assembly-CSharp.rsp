@@ -347,6 +347,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/HealthSystem/UnitHealth.cs"
+"Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/PlayerBehaviour.cs"
 "Assets/Scripts/UI_Scripts/HealthBar.cs"
 "Assets/Scripts/UI_Scripts/ZombieAI.cs"
